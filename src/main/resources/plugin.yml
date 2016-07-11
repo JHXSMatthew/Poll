@@ -1,0 +1,8 @@
+name: Poll
+version: 1.0
+main: com.mcndsj.Poll.PollPlugin
+author: MatthewYu
+commands:
+  poll:
+    description: This is main plugin command.
+    aliases: [poll]
